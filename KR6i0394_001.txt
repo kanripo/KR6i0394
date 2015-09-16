@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:57.402935
+#+DATE: 2015-08-30 20:17:58.620754
 #+TITLE: 佛說施燈功德經
 #+PROPERTY: CBETA_ID T16n0702
 #+PROPERTY: ID KR6i0394
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 702
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0394_T_000-0803c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0394_T_001-0803c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.702¶
-
- 《佛說施燈功德經》¶
+No. 702¶
+《佛說施燈功德經》¶
 ¶
 高齊天竺三藏那連提耶舍譯¶
 
@@ -395,7 +394,7 @@ No.702¶
 爾時如來欲重宣此義，復說偈言：¶
 
 #+BEGIN_VERSE
-「　「身𦟛圓滿具大力，
+「　「身[月*庸]圓滿具大力，
 　不與他人共戰諍，¶
 　遍遊諸方無惱者，
 　由燈奉施佛支提。¶
